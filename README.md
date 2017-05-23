@@ -13,7 +13,7 @@ To use the eventhub-spout jar add the following dependency:
 
 ```
  <properties>
-    <storm.eventhubs.version>1.1.0.2.6.0.3-8</storm.eventhubs.version>
+    <storm.eventhubs.version>1.1.0.1</storm.eventhubs.version>
  </properties>
  
  <dependencies>
