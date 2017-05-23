@@ -5,7 +5,7 @@ In your pom.xml file add the below section.
 ```  
   <repository>
       <id>hdinsight-examples</id>
-      <url>http://raw.github.com/hdinsight-storm-examples/mvn-repo</url>
+      <url>http://raw.github.com/hdinsight/mvn-repo/master</url>
   </repository>
 ```
 
